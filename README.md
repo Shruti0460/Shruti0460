@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Final-year B.Tech student  <br>💻 Aspiring Full Stack Web Developer\  <br>📍 Kolhapur, Maharashtra, India  <br>
+Final-year B.Tech student  <br>💻 Aspiring Full Stack Web Developer  <br>📍 Kolhapur, Maharashtra, India  <br>
 
 <br>- 🔭 Currently working on Open Source Contributions and real-world projects  <br>- 🌱 Learning Full Stack Web Development (MERN / Next.js)  <br>- 🏆 Hacktoberfest 2025 Contributor  
 
