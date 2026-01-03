@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year B.Tech student  <br>💻 Aspiring **Full Stack Web Developer** & **Cybersecurity **  <br>📍 Kolhapur, Maharashtra, India  <br><br>About Me<br>- 🔭 Currently working on **Open Source Contributions** and real-world projects  <br>- 🌱 Learning **Full Stack Web Development (MERN / Next.js)**  <br>- 🧠 Interested in **Web Security, APIs, OWASP Top 10, Automation & AI-based Systems**  <br>- 🏆 Hacktoberfest 2025 Contributor  
+Final-year B.Tech student  <br>💻 Aspiring Full Stack Web Developer & Cybersecurity  <br>📍 Kolhapur, Maharashtra, India  <br><br>About Me<br>- 🔭 Currently working on Open Source Contributions and real-world projects  <br>- 🌱 Learning Full Stack Web Development (MERN / Next.js)  <br>- 🧠 Interested in Web Security, APIs, OWASP Top 10, Automation & AI-based Systems  <br>- 🏆 Hacktoberfest 2025 Contributor  
 
 
 ## 🌐 Socials:
@@ -15,10 +15,3 @@ Final-year B.Tech student  <br>💻 Aspiring **Full Stack Web Developer** & **Cy
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shruti0460&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shruti0460&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Shruti0460&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
