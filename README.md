@@ -1,5 +1,6 @@
 ## 💫 About Me:
-Final-year B.Tech student  <br>💻 Aspiring Full Stack Web Developer & Cybersecurity  <br>📍 Kolhapur, Maharashtra, India  <br><br>About Me<br>- 🔭 Currently working on Open Source Contributions and real-world projects  <br>- 🌱 Learning Full Stack Web Development (MERN / Next.js)  <br>- 🧠 Interested in Web Security, APIs, OWASP Top 10, Automation & AI-based Systems  <br>- 🏆 Hacktoberfest 2025 Contributor  
+Final-year B.Tech student  <br>💻 Aspiring Full Stack Web Developer & Cybersecurity  <br>📍 Kolhapur, Maharashtra, India  <br>
+- 🔭 Currently working on Open Source Contributions and real-world projects  <br>- 🌱 Learning Full Stack Web Development (MERN / Next.js)  <br>- 🧠 Interested in Web Security, APIs, OWASP Top 10, Automation & AI-based Systems  <br>- 🏆 Hacktoberfest 2025 Contributor  
 
 
 ## 🌐 Socials:
