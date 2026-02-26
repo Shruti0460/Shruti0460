@@ -6,7 +6,7 @@
 
 
 
-## 💻 Tech Stack  
+### 💻 Tech Stack  
 
 ### 🖥️ Languages  
 `Python`  `JavaScript`  `C++`  `Java`  
